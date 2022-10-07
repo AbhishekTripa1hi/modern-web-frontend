@@ -1,7 +1,7 @@
 'use strict';
 
 ///////////////////////////////////////
-// Modal window
+// Modal window 16:38 07-10-2022
 
 const modal = document.querySelector('.modal');
 const overlay = document.querySelector('.overlay');
